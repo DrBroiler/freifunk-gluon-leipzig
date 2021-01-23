@@ -43,9 +43,8 @@ msgstr ""
 
 msgid "gluon-config-mode:pubkey"
 msgstr ""
-"<p>Komm zum Leipziger Freifunk-Treff!
-"<br/>Wir treffen uns jeden Donnerstagabend an wechselnden Orten. Aktuelle Infos auf unsere Webseite "
-"<a href=\"https://freifunk-leipzig.de\">Freifunk Leipzig</a><br/><br/><br/></p>"
+"<p>Komm zum Leipziger Freifunk-Treff!<br/>Wir treffen uns jeden Donnerstagabend an wechselnden Orten. Aktuelle Infos im "
+"<a href=\"http://wiki.leipzig.freifunk.net/Freifunk_Treff\">Freifunkwiki</a><br/><br/><br/></p>"
 
 msgid "gluon-config-mode:reboot"
 msgstr ""
