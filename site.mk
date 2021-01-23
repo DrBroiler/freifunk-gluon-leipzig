@@ -5,7 +5,6 @@
 
 GLUON_FEATURES := \
         alfred \
-        authorized-keys \
         autoupdater \
         config-mode-geo-location-osm \
         ebtables-filter-multicast \
