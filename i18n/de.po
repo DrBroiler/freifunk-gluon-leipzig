@@ -31,8 +31,7 @@ msgstr ""
 "Um deinen Knoten auf öffentlichen Karten anzeigen zu können, benötigen wir "
 "seine Koordinaten. Hier hast du die Möglichkeit, diese zu hinterlegen."
 
-msgid ""
-"gluon-config-mode:altitude-label"
+msgid "gluon-config-mode:altitude-label"
 msgstr ""
 "<p>Höhe in m</p>"
 
